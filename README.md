@@ -6,12 +6,12 @@ selling their produce prepackaged in bunches and charging the customer on a per 
 shop sold vegemite scroll in packs of 3 and 5 and a customer ordered 8 they would get a pack of 3 and
 a pack of 5. The bakery currently sells the following products:
 
-</br > Name          <pre>        Code       <pre>       Packs
-</br > Vegemite Scroll       VS5     <pre>          3 @ $6.99
-                                      </br > <pre> <pre> <pre> 5 @ $8.99
-</br > Bluberry Muffin       MB11            <pre> <pre> <pre> 2 @ $9.95
-                                      </br > <pre> <pre> <pre> 5 @ $16.95
-                                      </br > <pre> <pre> <pre> 8 @ $24.95 
+</br > Name                Code            Packs
+</br > Vegemite Scroll       VS5                    3 @ $6.99
+                                      </br >        5 @ $8.99
+</br > Bluberry Muffin       MB11                   2 @ $9.95
+                                      </br >        5 @ $16.95
+                                      </br >        8 @ $24.95 
 </br > Croissant             CF         3 @ $5.95
                                       </br >  5 @ $9.95
                                       </br >  9 @ $16.99
