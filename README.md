@@ -6,26 +6,26 @@ selling their produce prepackaged in bunches and charging the customer on a per 
 shop sold vegemite scroll in packs of 3 and 5 and a customer ordered 8 they would get a pack of 3 and
 a pack of 5. The bakery currently sells the following products:
 
-</br > Name                  Code              Packs
-</br > Vegemite Scroll       VS5               3 @ $6.99
-                                      </br >  5 @ $8.99
-</br > Bluberry Muffin       MB11             2 @ $9.95
-                                      </br >  5 @ $16.95
-                                      </br >  8 @ $24.95 
+</br > Name          <pre>        Code       <pre>       Packs
+</br > Vegemite Scroll       VS5     <pre>          3 @ $6.99
+                                      </br > <pre> <pre> <pre> 5 @ $8.99
+</br > Bluberry Muffin       MB11            <pre> <pre> <pre> 2 @ $9.95
+                                      </br > <pre> <pre> <pre> 5 @ $16.95
+                                      </br > <pre> <pre> <pre> 8 @ $24.95 
 </br > Croissant             CF         3 @ $5.95
                                       </br >  5 @ $9.95
                                       </br >  9 @ $16.99
-#Task
+# Task
 Given a customer order you are required to determine the cost and pack breakdown for each product.To save the shipping space each order should contain the minimal number of packs.
 
-#Input:
+# Input:
 Each order has a series of lines with each line containing the number of items followed by the
 product code. An example input:
 </br > 10 VS5
 </br > 14 MB11
 </br > 13 CF
 
-#Output:
+# Output:
 A successfully passing test(s) that demonstrates the following output:
 </br > 10 VS5 $17.98
 </br > 2 x 5 $8.99
